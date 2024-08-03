@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://cbrew.github.io',
                 'git_url': 'https://github.com/cbrew/nbdev-demo-cbrew',
                 'lib_path': 'nbdev_demo_cbrew'},
-  'syms': {'nbdev_demo_cbrew.core': {'nbdev_demo_cbrew.core.foo': ('core.html#foo', 'nbdev_demo_cbrew/core.py')}}}
+  'syms': { 'nbdev_demo_cbrew.cbwalk': {'nbdev_demo_cbrew.cbwalk.say_hello': ('cbwalk.html#say_hello', 'nbdev_demo_cbrew/cbwalk.py')},
+            'nbdev_demo_cbrew.core': {'nbdev_demo_cbrew.core.foo': ('core.html#foo', 'nbdev_demo_cbrew/core.py')}}}

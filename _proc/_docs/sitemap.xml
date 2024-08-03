@@ -1,3 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://cbrew.github.io/nbdev-demo-cbrew/index.html</loc>
+    <lastmod>2024-08-03T18:05:33.007Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cbrew.github.io/nbdev-demo-cbrew/core.html</loc>
+    <lastmod>2024-08-03T17:52:58.613Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cbrew.github.io/nbdev-demo-cbrew/cbwalk.html</loc>
+    <lastmod>2024-08-03T18:02:27.873Z</lastmod>
+  </url>
 </urlset>
