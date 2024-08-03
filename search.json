@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-demo-cbrew",
+    "section": "",
+    "text": "This is still very much a first cut, doesn’t really do anything.",
+    "crumbs": [
+      "nbdev-demo-cbrew"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-demo-cbrew",
+    "section": "Install",
+    "text": "Install\npip install nbdev_demo_cbrew",
+    "crumbs": [
+      "nbdev-demo-cbrew"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-demo-cbrew",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+12\n\n13",
+    "crumbs": [
+      "nbdev-demo-cbrew"
+    ]
+  },
+  {
+    "objectID": "cbwalk.html",
+    "href": "cbwalk.html",
+    "title": "cbwalk",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nsay_hello(\"Isaac\")\n\n'Hello Isaac!'\n\n\n\nfrom fastcore.test import *\n\ntest_eq(say_hello(\"Hamel\"), \"Hello Hamel!\")\n\n\nfrom IPython.display import display,SVG\n\n\ndisplay(SVG('&lt;svg height=\"100\" xmlns=\"http://www.w3.org/2000/svg\"&gt;&lt;circle cx=\"50\" cy=\"50\" r=\"40\"/&gt;&lt;/svg&gt;'))",
+    "crumbs": [
+      "cbwalk"
+    ]
+  }
+]
